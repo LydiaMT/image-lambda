@@ -3,9 +3,11 @@
 
 ## Links & Resources
 
-✨ [Pull Request]()
+✨ [Pull Request](https://github.com/LydiaMT/image-lambda/pull/1)
+
 ✨ [images.json](https://lydia-chum-bucket.s3-us-west-2.amazonaws.com/images.json)
-✨ [lambda]()
+
+✨ [lambda](https://github.com/LydiaMT/image-lambda/blob/main/index.js)
 
 ## Feature Tasks
 
