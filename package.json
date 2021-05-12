@@ -1,0 +1,23 @@
+{
+  "name": "image-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LydiaMT/image-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LydiaMT/image-lambda/issues"
+  },
+  "homepage": "https://github.com/LydiaMT/image-lambda#readme",
+  "dependencies": {
+    "aws-sdk": "^2.905.0"
+  }
+}
